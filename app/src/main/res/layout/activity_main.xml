@@ -18,4 +18,10 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/passChar" />
+
+    <TextView
+        android:id="@+id/textViewPassDouble"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/passDouble" />
 </LinearLayout>
